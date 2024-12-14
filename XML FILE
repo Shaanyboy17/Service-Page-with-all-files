@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<services>
+    <service>
+        <name>Web Development</name>
+        <description>Building responsive and dynamic websites.</description>
+        <price>1500.00</price>
+    </service>
+    <service>
+        <name>UI/UX Design</name>
+        <description>Creating intuitive and user-friendly interfaces.</description>
+        <price>1200.00</price>
+    </service>
+    <service>
+        <name>SEO Optimization</name>
+        <description>Improving website visibility on search engines.</description>
+        <price>800.00</price>
+    </service>
+</services>

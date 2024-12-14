@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Client Services</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Our Services</h1>
+        <p>Explore the services we offer to help you succeed.</p>
+    </header>
+    <main>
+        <section id="services-container">
+            <h2>Available Services</h2>
+            <div id="services-list"></div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Helping You With Coding. All Rights Reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
